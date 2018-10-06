@@ -1,5 +1,5 @@
 #! /bin/bash
-# Team: Matthias Sidler, Dominic Messmer, Tobias Flühmann
+# Group10: Matthias Sidler, Dominic Messmer, Tobias Flühmann
 
 dir=~/.file-tagger/ # project dir and file
 db=${dir}db
